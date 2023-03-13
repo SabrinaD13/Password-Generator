@@ -30,7 +30,7 @@ Description:
 *I then made sure when the option was okay or cancel that the option the user selected was the action that followed in generating the password.
 *I validated the input so the password would generate accordingly to the prompts selected.
 
-To open the page, simply click on the following link: "https://strugglerxiv.github.io/Password-Generator/"
+To open the page, click on the following link: 
 
 This a screenshot showcasing the live deployed webpage on github:
 

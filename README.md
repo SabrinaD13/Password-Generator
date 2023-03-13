@@ -37,3 +37,5 @@ This a screenshot showcasing the live deployed webpage on github:
 
 Here's the url for the deployed website:
 
+Credits:
+-The amazing teaching staff at the UCF coding bootcamp.

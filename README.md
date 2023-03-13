@@ -34,7 +34,7 @@ To open the page, simply click on the following link: "https://strugglerxiv.gith
 
 This a screenshot showcasing the live deployed webpage on github:
 
-
+![alt text](http://127.0.0.1:5500/index.html)
 
 Here's the url for the deployed website:
 

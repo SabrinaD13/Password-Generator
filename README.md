@@ -1,4 +1,4 @@
-# Password Generator Starter Code
+# Password Generator Code
 
 What the user wants:
 AS AN employee with access to sensitive data
@@ -30,9 +30,7 @@ Description:
 *I then made sure when the option was okay or cancel that the option the user selected was the action that followed in generating the password.
 *I validated the input so the password would generate accordingly to the prompts selected.
 
-To open the page, click on the following link: 
-
-This a screenshot showcasing the live deployed webpage on github:
+This is a screenshot of the deployed webpage:
 ![Alt text](../../OneDrive/Pictures/Screenshots/Screenshot%20(71).png)
 
 Here's the url for the deployed website:

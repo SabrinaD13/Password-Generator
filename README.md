@@ -36,6 +36,7 @@ This a screenshot showcasing the live deployed webpage on github:
 ![Alt text](../../OneDrive/Pictures/Screenshots/Screenshot%20(71).png)
 
 Here's the url for the deployed website:
+https://sabrinad13.github.io/Password-Generator/
 
 Credits:
--The amazing teaching staff at the UCF coding bootcamp.
+-The teaching staff at the UCF coding bootcamp for helping me learn the importance of functions and how to input prompts to correctly deploy!

@@ -33,9 +33,7 @@ Description:
 To open the page, click on the following link: 
 
 This a screenshot showcasing the live deployed webpage on github:
-![App Screenshot]("C:\Users\sabri\OneDrive\Pictures\Screenshots\Screenshot (71).png")
-
-![alt text](http://127.0.0.1:5500/index.html)
+![Alt text](../../OneDrive/Pictures/Screenshots/Screenshot%20(71).png)
 
 Here's the url for the deployed website:
 

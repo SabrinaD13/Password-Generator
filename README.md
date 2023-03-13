@@ -30,12 +30,13 @@ Description:
 *I then made sure when the option was okay or cancel that the option the user selected was the action that followed in generating the password.
 *I validated the input so the password would generate accordingly to the prompts selected.
 
-This is a screenshot of the deployed webpage:
-
 
 Here's the url for the deployed website:
 https://sabrinad13.github.io/Password-Generator/
 
 Credits:
 -The teaching staff at the UCF coding bootcamp for helping me learn the importance of functions and how to input prompts to correctly deploy!
+
+This is a screenshot of the deployed webpage:
+
 ![Screenshot (72)](https://user-images.githubusercontent.com/125221411/224707500-ce1898c6-aad7-44bc-a77b-f588197658b2.png)

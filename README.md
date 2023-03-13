@@ -31,10 +31,11 @@ Description:
 *I validated the input so the password would generate accordingly to the prompts selected.
 
 This is a screenshot of the deployed webpage:
-![Alt text](../../OneDrive/Pictures/Screenshots/Screenshot%20(71).png)
+
 
 Here's the url for the deployed website:
 https://sabrinad13.github.io/Password-Generator/
 
 Credits:
 -The teaching staff at the UCF coding bootcamp for helping me learn the importance of functions and how to input prompts to correctly deploy!
+![Screenshot (72)](https://user-images.githubusercontent.com/125221411/224707500-ce1898c6-aad7-44bc-a77b-f588197658b2.png)

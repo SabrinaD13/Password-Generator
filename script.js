@@ -64,7 +64,6 @@ if (confirm("Do you want to include numbers in your password?")) {
 if (confirm("Do you want to inculde symbols in your password?")) {
   characters = characters.concat(symbolsChar);
 }
-
 return true;
 }
 
